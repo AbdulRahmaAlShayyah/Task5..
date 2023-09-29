@@ -47,7 +47,7 @@ print(num6.zfill(5))
 #title  يقوم بجعل كل اول حرف من كل كلمة حرف كبير
 name1='hello gsg'
 print(name1.title())
-#capitalize يقوم بحعل الحرف الاول من الكلمة حرف كبير فقط
+#capitalize يقوم بجعل الحرف الاول من الكلمةالاولى حرف كبير فقط
 name1='hello gsg'
 print(name1.capitalize())
 #Q 14
